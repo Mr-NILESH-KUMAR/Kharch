@@ -176,6 +176,13 @@ a { color: inherit; text-decoration: none; }
     align-items: center;
 }
 
+.cta-actions {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 1.5rem;
+}
+
 /* ------------------------------------------------------------------ */
 /* Mock card (hero visual)                                             */
 /* ------------------------------------------------------------------ */
